@@ -2,6 +2,8 @@
 
 ### B.Tech Student | Artificial Intelligence & Machine Learning | Python Developer
 
+📖 **[Visit My Personal Digital Diary](https://umesh-rathod123.github.io/umesh-rathod123/diary.html)** — A little corner about my journey, dreams, memories and thoughts.
+
 I am an undergraduate student interested in building practical software projects and strengthening my skills in programming, databases, and AI/ML. I enjoy learning by creating applications that solve everyday problems.
 
 ## About Me
@@ -56,6 +58,7 @@ A command-line Python project demonstrating basic account operations and Excel-b
 ## Connect With Me
 
 - GitHub: [@umesh-rathod123](https://github.com/umesh-rathod123)
+- 📖 Personal Diary: [The Story of Me](https://umesh-rathod123.github.io/umesh-rathod123/diary.html)
 
 ---
 
