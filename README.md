@@ -58,6 +58,7 @@ A command-line Python project demonstrating basic account operations and Excel-b
 ## Connect With Me
 
 - GitHub: [@umesh-rathod123](https://github.com/umesh-rathod123)
+- Instagram : https://www.instagram.com/umeshrathod7080/
 - 📖 Personal Diary: [The Story of Me](https://umesh-rathod123.github.io/umesh-rathod123/diary.html)
 
 ---
